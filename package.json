@@ -1,0 +1,19 @@
+{
+  "name": "objection-worker-builder",
+  "version": "1.0.0",
+  "description": "Picks jobs from a mysql queue, builds \"objection-godot\" compatible XMLs and renders the video",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisMayo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mariadb": "^3.4.0",
+    "typescript": "^5.7.2",
+    "xmlbuilder2": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6"
+  }
+}

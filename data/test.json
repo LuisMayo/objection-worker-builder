@@ -1,0 +1,26 @@
+{
+  "tmpDir": ".",
+  "comments": [
+    {
+      "user": {
+        "id": 1,
+        "displayName": "steve"
+      },
+      "text": "I believe I can fly, I believe I can touch the sky"
+    },
+    {
+        "user": {
+          "id": 2,
+          "displayName": "steve"
+        },
+        "evidence": "/home/luis/Pictures/Screenshots/Screenshot_20241013_204812.png",
+        "text": "I believe I can't fly, I believe I can touch the sky"
+      },
+      {
+          "user": {
+            "id": 3
+          },
+          "text": "I don't really have a name to be honest"
+        }
+  ]
+}
