@@ -1,6 +1,6 @@
 import { create } from "xmlbuilder2";
 
-export type Location = 'left' | 'center' | 'right';
+export type Location = 'left' | 'center' | 'right' | 'judge' | 'counsel' | 'zoom';
 
 /** Interfaces directly with the XML source code. Only primitive functions will be here*/
 export class OGXMLEngine {

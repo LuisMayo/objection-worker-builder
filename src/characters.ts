@@ -300,6 +300,7 @@ export const characters: Character[] = [
     name: "franziska",
     position: "right",
     gender: "female",
+    objection: "res://ui/exclamations/exclamation_sounds/objection-franziska.wav",
     animations: [
       "bow",
       "clench-idle",
