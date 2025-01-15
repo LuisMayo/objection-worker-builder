@@ -11,7 +11,6 @@ export class MariaDBHandler {
 
     await this.createTable();
     await this.cleanPendingJobs();
-    await this.mainLoop();
   }
 
   async mainLoop() {
