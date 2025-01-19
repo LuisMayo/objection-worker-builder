@@ -1,4 +1,4 @@
-import { Location } from "../engines/objection-godot-xml-engine";
+export type Location = 'left' | 'center' | 'right' | 'judge' | 'counsel' | 'zoom';
 
 export interface Character {
   name: string;
